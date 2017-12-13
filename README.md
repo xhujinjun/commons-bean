@@ -1,1 +1,1 @@
-# commons-bean
+this is common project about java bean.
